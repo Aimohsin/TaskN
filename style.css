@@ -1,0 +1,39 @@
+.main {
+    border: 10cm;
+    border-color: white;
+    margin: 2cm;
+}
+
+.iconsTop {
+    margin: 5px;
+}
+
+.halfTop {
+    background-image: url(./img/photo-1486312338219-ce68d2c6f44d.jpg);
+    background-repeat: no-repeat;
+    background-size: 1500px 850px;
+}
+
+.columnLeft{
+    margin-top: 58px;
+}
+
+.iconHB:hover {
+    color: teal;
+}
+
+.halfBottom {
+    border: 10cm;
+    border-color: white;
+    margin: 2cm;
+}
+
+.qoute {
+    margin-top: 5rem;
+    margin-left: 7rem;
+}
+
+.btn {
+    background-color: white;
+    border-radius: 2vh;
+}
